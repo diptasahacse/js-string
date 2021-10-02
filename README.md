@@ -1,0 +1,1 @@
+# Js All String Method
